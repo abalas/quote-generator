@@ -1,1 +1,4 @@
 body { font-family: sans-serif; background-color: #f0f0f0; color: #333; }
+
+/* Pendiente (feature/random-background): fondo de color aleatorio,
+   por ejemplo lightblue, que se asignará desde app.js */
